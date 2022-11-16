@@ -1,4 +1,4 @@
-Description
+Description:
 Simple_shell is an sh-compatible command language interpreter that executes commands read from the standard input or from a file.
 
 The simple_shell is a command that reads lines from either a file or the terminal, interprets them, and generally executes other commands. The simple_shell implements a language that has flow control constructs, a macro facility that provides a variety of features in addition to data storage, along with built in history and lineediting capabilities. It incorporates many features to aid interactive use and has the advantage that the interpretative language is common to both interactive and non-interactive use(shell scripts). That is, commands canbe typed directly to the running shell or can be put into a file and the file can be executed directly by the shell.
